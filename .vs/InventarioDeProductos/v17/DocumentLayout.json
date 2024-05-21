@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\juanp\\Uam\\PrograCuatro\\InventarioDeProductos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|C:\\Users\\juanp\\Uam\\PrograCuatro\\InventarioDeProductos\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|c:\\users\\juanp\\uam\\progracuatro\\inventariodeproductos\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|solutionrelative:repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|solutionrelative:irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|c:\\users\\juanp\\uam\\progracuatro\\inventariodeproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|C:\\Users\\juanp\\Uam\\PrograCuatro\\InventarioDeProductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -51,8 +51,7 @@
               "RelativeToolTip": "IRepositorio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T17:39:29.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T17:39:29.797Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Producto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T17:36:28.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T17:36:28.221Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAuwBEAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T23:34:50.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T23:34:50.072Z"
             }
           ]
         }
