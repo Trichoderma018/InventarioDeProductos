@@ -11,6 +11,7 @@ namespace InventarioDeProductos
         static void Main(string[] args)
         {
             Inventario();
+            Console.ReadLine();
         }
 
         static void Inventario()
@@ -20,8 +21,8 @@ namespace InventarioDeProductos
             inventario.Agregar(new Producto { Id = 2, Nombre = "Carbonato", Gramaje = 50.00 });
             inventario.Agregar(new Producto { Id = 3, Nombre = "Cal", Gramaje = 23.00 });
             Producto producto = inventario.Obtener(2);
-            Console.WriteLine("El Producto es: ", producto.Nombre);
-            Console.WriteLine("El Gramaje es: ", producto.Gramaje, " Kilos");
+            Console.WriteLine($"El Producto es: {producto.Nombre} ");
+            Console.WriteLine($"El Gramaje es: {producto.Gramaje}"+" Kilos");
             Console.WriteLine("");
             IEnumerable<Producto> productos = inventario.ListarTodos();
             foreach (var item in productos)

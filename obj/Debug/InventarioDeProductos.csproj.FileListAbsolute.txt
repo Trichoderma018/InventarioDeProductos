@@ -1,0 +1,7 @@
+C:\Users\juanp\Uam\PrograCuatro\InventarioDeProductos\bin\Debug\InventarioDeProductos.exe.config
+C:\Users\juanp\Uam\PrograCuatro\InventarioDeProductos\bin\Debug\InventarioDeProductos.exe
+C:\Users\juanp\Uam\PrograCuatro\InventarioDeProductos\bin\Debug\InventarioDeProductos.pdb
+C:\Users\juanp\Uam\PrograCuatro\InventarioDeProductos\obj\Debug\InventarioDeProductos.csproj.AssemblyReference.cache
+C:\Users\juanp\Uam\PrograCuatro\InventarioDeProductos\obj\Debug\InventarioDeProductos.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Uam\PrograCuatro\InventarioDeProductos\obj\Debug\InventarioDeProductos.exe
+C:\Users\juanp\Uam\PrograCuatro\InventarioDeProductos\obj\Debug\InventarioDeProductos.pdb
