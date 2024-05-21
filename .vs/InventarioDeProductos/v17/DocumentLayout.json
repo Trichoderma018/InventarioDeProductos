@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\juanp\\Uam\\PrograCuatro\\InventarioDeProductos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|c:\\users\\juanp\\uam\\progracuatro\\inventariodeproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|c:\\users\\juanp\\uam\\progracuatro\\inventariodeproductos\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|C:\\Users\\juanp\\Uam\\PrograCuatro\\InventarioDeProductos\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|solutionrelative:repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|c:\\users\\juanp\\uam\\progracuatro\\inventariodeproductos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|C:\\Users\\juanp\\Uam\\PrograCuatro\\InventarioDeProductos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|c:\\users\\juanp\\uam\\progracuatro\\inventariodeproductos\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|C:\\Users\\juanp\\Uam\\PrograCuatro\\InventarioDeProductos\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|solutionrelative:irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|c:\\users\\juanp\\uam\\progracuatro\\inventariodeproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B65C91-1950-4161-9989-F0676CDDD4C3}|InventarioDeProductos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Repositorio.cs",
               "DocumentMoniker": "C:\\Users\\juanp\\Uam\\PrograCuatro\\InventarioDeProductos\\Repositorio.cs",
               "RelativeDocumentMoniker": "Repositorio.cs",
               "ToolTip": "C:\\Users\\juanp\\Uam\\PrograCuatro\\InventarioDeProductos\\Repositorio.cs",
               "RelativeToolTip": "Repositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxkAAAAJAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwAgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T17:42:30.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\juanp\\Uam\\PrograCuatro\\InventarioDeProductos\\IRepositorio.cs",
               "RelativeDocumentMoniker": "IRepositorio.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\juanp\\Uam\\PrograCuatro\\InventarioDeProductos\\Producto.cs",
               "RelativeDocumentMoniker": "Producto.cs",
@@ -69,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\juanp\\Uam\\PrograCuatro\\InventarioDeProductos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\juanp\\Uam\\PrograCuatro\\InventarioDeProductos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAtwAAAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBEAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T23:34:50.072Z",
               "EditorCaption": ""

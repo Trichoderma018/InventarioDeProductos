@@ -6,23 +6,22 @@ using System.Threading.Tasks;
 
 namespace InventarioDeProductos
 {
-    internal class Repositorio
+    public class Repositorio : IRepositorio
     {
         private List<Producto> _productos = new List<Producto>();
         public void Agregar(Producto producto)
         {
-
-
+            _productos.Add(producto);
         }
 
         public IEnumerable<Producto> ListarTodos()
         {
-            throw new NotImplementedException();
+            return _productos;
         }
 
         public Producto Obtener(int id)
         {
-            throw new NotImplementedException();
+            return _productos.FirstOrDefault(p => p.Id == id);
         }
     }
 }
